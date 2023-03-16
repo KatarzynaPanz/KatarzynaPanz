@@ -15,7 +15,7 @@
  - play strategic board games
  - sail on the sea
  
- ### 🔧 Technologies
+ ### I use technologies:
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/olafsulich/)](https://github.com/olafsulich/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/olafsulich/)](https://github.com/olafsulich/)
