@@ -12,6 +12,7 @@
  ### I love to:
  - spend time with my husband and son
  - read non-fiction books
+ - play strategic board games
  - sail on the sea
  
  ### 🔧 Technologies
