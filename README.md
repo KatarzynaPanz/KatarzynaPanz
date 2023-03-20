@@ -1,5 +1,3 @@
-![obraz](https://user-images.githubusercontent.com/91606497/226317468-9115beab-f22f-426c-a509-e7342c2d2c38.png)
-
 
 <h1 align="center">Hi👋 My name is Katarzyna Panz</h1>
 
