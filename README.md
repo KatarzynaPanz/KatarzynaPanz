@@ -1,3 +1,6 @@
+![obraz](https://user-images.githubusercontent.com/91606497/226317468-9115beab-f22f-426c-a509-e7342c2d2c38.png)
+
+
 <h1 align="center">Hi👋 My name is Katarzyna Panz</h1>
 
 <h3 align="justify"> I am a beginner programmer who is constantly learning and developing my skills. I set myself ambitious goals and pursue them persistently. For the past two years, I've been combining my son's care with learning front-end technologies. Right now I feel ready to start my first job as a programmer. </h3>
