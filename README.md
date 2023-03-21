@@ -1,4 +1,4 @@
-![obraz](https://user-images.githubusercontent.com/91606497/226359972-3c8f5b52-47a2-40cb-9b5a-4759b8181861.png)
+![obraz](https://user-images.githubusercontent.com/91606497/226570718-4c95d5af-9c5c-4ec3-bd37-412b78dbed68.png)
 
 ### I am:
 - open-minded
