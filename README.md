@@ -26,6 +26,7 @@
 [![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=Webpack&logoColor=white)](https://github.com/olafsulich/)
 [![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)](https://github.com/olafsulich/)
 [![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)](https://github.com/olafsulich/)
+[![React Bootstrap](https://img.shields.io/badge/-ReactBootstrap-black?style=flat-square&logo=React-Bootstrap&logoColor=white)](https://github.com/olafsulich/)
 
 ### Contact me
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olaf-sulich/)](https://www.linkedin.com/in/katarzyna-panz-584399228/)
